@@ -7,5 +7,6 @@ var Person = function (config){
     this.age = config.age;
     this.job = config.job;
 };
-
+// TODO [x] Just new class
+// FIXME Next task
 var nick = new Person({name: 'Nick', age: 24, job: 'Developer'});
