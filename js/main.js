@@ -1,5 +1,6 @@
 /**
  * Created by Ig on 02/17/2017.
+ Just for learning
  */
 var Person = function (config){
     this.name = config.name;
